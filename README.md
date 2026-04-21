@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Younes Mourabit 👋
 
-<!--
-**younesmourabit/younesmourabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **Contact:** [younesmourabit8@gmail.com](mailto:younesmourabit8@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/mourabit-younes-41ba69280](https://www.linkedin.com/in/mourabit-younes-41ba69280)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about **Artificial Intelligence**, **Data Science**, and **Software Development**.  
+I have a strong interest in building intelligent systems, developing efficient applications, and solving real-world problems through technology.  
+
+I am always open to collaboration on innovative projects, research opportunities, and development challenges.  
+
+Feel free to connect with me to exchange ideas, share knowledge, and build impactful solutions.
