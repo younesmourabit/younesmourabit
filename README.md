@@ -1,7 +1,7 @@
 # Hey, I'm Younes Mourabit 👋
 
 📫 **Contact:** [younesmourabit8@gmail.com](mailto:younesmourabit8@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/mourabit-younes-41ba69280](https://www.linkedin.com/in/mourabit-younes-41ba69280)
+🔗 **LinkedIn:** [Younes Mourabit](https://www.linkedin.com/in/mourabit-younes-41ba69280)
 
 ---
 
