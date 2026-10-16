@@ -2,7 +2,7 @@
 
 **Data Scientist & ML Engineer** · MLOps · Computer Vision · Geospatial  
 🎓 MSc in Decision Information Systems & Imaging (SIDI), FST Errachidia, Morocco  
-📍 Morocco · 💼 **Open to work**
+📍 Morocco 
 
 ---
 
