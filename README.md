@@ -45,4 +45,4 @@ I'm looking for **Data Scientist, ML Engineer, Computer Vision or Data Engineer*
 ## Contact
 
 📧 [younesmourabit8@gmail.com](mailto:younesmourabit8@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mourabit-younes-41ba69280)
+🔗 [LinkedIn](https://www.linkedin.com/in/younes-mourabit-41ba69280)
