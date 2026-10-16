@@ -28,6 +28,7 @@ I'm looking for **Data Scientist, ML Engineer, Computer Vision or Data Engineer*
 | [medical-image-security-iot-dwt-aes](https://github.com/younesmourabit/medical-image-security-iot-dwt-aes) | Secure medical image transmission combining DWT and AES encryption | Python, Jupyter |
 | [gestion-cooperative](https://github.com/younesmourabit/gestion-cooperative) | Cooperative management web application | Java EE, MySQL |
 | [underwater-vision-ai](https://github.com/younesmourabit/underwater-vision-ai) | Underwater fish detection using computer vision | Python, YOLOv8 |
+| [observational-rl](https://github.com/younesmourabit/observational-rl) | Personal project exploring Reinforcement Learning, Behavioral Cloning, and hybrid learning in a GridWorld environment | Python, PyTorch, NumPy, Matplotlib, Streamlit |
 
 ---
 
