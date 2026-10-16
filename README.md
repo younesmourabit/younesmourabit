@@ -35,6 +35,7 @@ I'm looking for **Data Scientist, ML Engineer, Computer Vision or Data Engineer*
 ## Tech stack
 
 **Machine Learning:** Python · scikit-learn · XGBoost · LightGBM · TensorFlow  
+**Reinforcement Learning:** Q-Learning · Behavioral Cloning · Imitation Learning
 **MLOps:** MLflow · ZenML · Airflow · Docker · Flask  
 **Computer Vision:** YOLO · ByteTrack · Faster R-CNN  
 **Data & BI:** SQL · MySQL · Talend · Power BI  
